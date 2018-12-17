@@ -1,5 +1,5 @@
 # whaddup-world
-A rather brilliant repository
+A pretty empty looking repository
 
 To whom this may concern,
 
